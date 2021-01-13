@@ -1,0 +1,4 @@
+com\iessoterohernandez\springapp\business\entities\Product.class
+com\iessoterohernandez\springapp\business\services\JPAProductManager.class
+com\iessoterohernandez\springapp\business\services\ProductManager.class
+com\iessoterohernandez\springapp\business\repositories\ProductRepository.class
